@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![Alt Text](https://media.giphy.com/media/H4E2Bad8aLcJsMFTlg/giphy.gif)
 -->
-<link rel="me" href="https://hachyderm.io/@frahz"/>
+<a rel="me" href="https://hachyderm.io/@frahz"/>
